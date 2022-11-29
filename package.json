@@ -1,0 +1,22 @@
+{
+  "name": "toy-problems",
+  "version": "1.0.0",
+  "description": "Leetcode and daily challenge problems",
+  "main": "tp.spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrinder1650/toy-problems.git"
+  },
+  "author": "amrinder1650",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrinder1650/toy-problems/issues"
+  },
+  "homepage": "https://github.com/amrinder1650/toy-problems#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
